@@ -45,7 +45,7 @@ namespace Decanat.Controllers
             
                 if (User.IsInRole("Decan"))
                 {
-                List<Plan> plans = pDAO.showPlansByStatus(7);
+                List<Plan> plans = pDAO.showPlansByStatus(6);
                 ViewAnswerAndVKR vav = new ViewAnswerAndVKR(plans);
                 List<Kafedra> kafedras = kDAO.getAllKafedras();
                 vav.kafedras = kafedras;

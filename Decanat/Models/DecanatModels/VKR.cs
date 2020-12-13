@@ -26,15 +26,15 @@ namespace Decanat.Models.DecanatModels
         
         public string getStatus { get
         {
-                switch (status)
+                switch (this.status)
                 {
-                    case (1):
+                    case (0):
                         return "На выполнении";
-                    case (2):
+                    case (1):
                         return "Выполнена";
-                    case (3):
+                    case (2):
                         return "Просрочена";
-                    case (4):
+                    case (3):
                         return "Отменена";
                     default:
                         return "Не удалось загрузить статус работы";

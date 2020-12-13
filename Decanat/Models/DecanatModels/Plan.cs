@@ -19,17 +19,17 @@ namespace Decanat.Models.DecanatModels
             {
                 switch (this.status)
                 {
-                    case 1:
+                    case 0:
                         return "Создан";
-                    case 2:
+                    case 1:
                         return "На ваполнении";
-                    case 3:
+                    case 2:
                         return "На исправлении";
-                    case 4:
+                    case 3:
                         return "Отменён";
-                    case 5:
+                    case 4:
                         return "Выполнен";
-                    case 6:
+                    case 5:
                         return "На одобрении";
                     default:
                         return "Ошибка";
@@ -73,8 +73,10 @@ namespace Decanat.Models.DecanatModels
 
         public Plan(int groupId)
         {
-            this.gpoupId = groupId;
+            gpoupId = groupId;
         }
 
     }
 }
+ 
+ 

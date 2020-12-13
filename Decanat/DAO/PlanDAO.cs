@@ -74,12 +74,12 @@ namespace Decanat.DAO
             Connect();
             try
             {
-                SqlCommand cmd = new SqlCommand("SELECT * FROM Plan WHERE Id=@Id", Connection);
-                cmd.Parameters.Add(new SqlParameter("@Id", id));
+                SqlCommand cmd = new SqlCommand("SELECT * FROM Plan WHERE Id=@id", Connection);
+                cmd.Parameters.Add(new SqlParameter("@id", id));
                 SqlDataReader reader = cmd.ExecuteReader();
                 if (reader.Read())
                 {
-                    plan.id = Convert.ToInt32(reader["Id"]);
+                    plan.id = Convert.ToInt32(reader["id"]);
                     plan.gpoupId = Convert.ToInt32(reader["GruppaId"]);
                     plan.status = Convert.ToInt32(reader["Status"]);
                 } 
@@ -168,7 +168,7 @@ namespace Decanat.DAO
                 if (reader.Read())
                 {
                     int status = Convert.ToInt32(reader["Status"]);
-                    if (status == 2 || status == 5)
+                    if (status == 1 || status == 4)
                     {
                         result = true;
                     } else
