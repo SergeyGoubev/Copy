@@ -1,0 +1,73 @@
+﻿@model Decanat.Models.DecanatModels.Answer
+
+@{
+    ViewBag.Title = "ShowAnswerInfo";
+}
+@if (User.IsInRole("Teacher") || User.IsInRole("Student") || User.IsInRole("Leiter") || User.IsInRole("Decan"))
+{
+    <h2>Информация о работе</h2>
+    <p>
+        Название работы: @Html.DisplayFor(ModelItem => Model.vkrName)
+    </p>
+    <p>
+        Этап: @Html.DisplayFor(ModelItem => Model.stepName)
+    </p>
+    <p>
+        Статус: @Html.DisplayFor(ModelItem => Model.statusName)
+    </p>
+    if ((Model.status == 0 || Model.status == 3 || Model.status == 5) && User.IsInRole("student"))
+    {
+        <p>
+            @Html.ActionLink("Добавить ответ", "sendAnswer", new { id = Model.id })
+        </p>
+    } else if(Model.status == 1 && User.IsInRole("Student")) { <p>
+    @Html.ActionLink("редактировать ответ", "sendAnswer", new { id = Model.id })
+</p>}
+    <p>
+        Ответ должен быть представлен до: @Html.DisplayFor(ModelItem => Model.getDate)
+    </p>
+    if (Model.status == 1 && (User.IsInRole("Teacher") || User.IsInRole("Leiter") || User.IsInRole("Decan")))
+    {
+        <p>
+            Сслыка на ответ:  @Html.DisplayFor(model => Model.link)
+        </p>
+        <p>
+            Ответ представлен: @Html.DisplayFor(ModelItem => Model.answerDate)
+        </p>
+    }
+    if (Model.status == 2)
+    {
+        <p>
+            Оценка: @Html.DisplayFor(ModelItem => Model.mark)
+        </p>
+        <p>
+            Дата оценки: @Html.DisplayFor(ModelItem => Model.markDate)
+        </p>
+    }
+    else
+    {
+        if (User.IsInRole("Teacher") && Model.status == 1)
+        {
+            <p>
+                @Html.ActionLink("Поставить оценку", "setMark", new { id = Model.id })
+            </p>
+            <p>
+                @Html.ActionLink("На исправление", "setAnswerStatus", new { id = Model.id, status = 3})
+            </p>
+        }
+        if (Model.status == 4)
+        {
+            @Html.ActionLink("Добавить время", "setAnswerStatus", new { id = Model.id, status = 5 })
+        } else if (Model.status == 5)
+        {
+            <p>
+                @Html.ActionLink("Просрочено", "setAnswerStatus", new { id = Model.id, status = 4})
+            </p>
+        }
+
+        <p>
+            @Html.ActionLink("Венуться к работе", "showVKRInfo", new { id = Model.vkrId })
+        </p>
+
+    }
+}

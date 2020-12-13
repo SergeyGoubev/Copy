@@ -1,0 +1,42 @@
+﻿@model Decanat.Models.DecanatModels.ViewAnswerAndVKR
+
+@{
+    ViewBag.Title = "showVKRInfo";
+}
+
+<h2>Информация о ВКР</h2>
+<p>
+    Название: @Html.DisplayFor(model => model.vkr.theme)
+</p>
+<p>
+    Статус:  @Html.DisplayFor(model => model.vkr.getStatus)
+
+    <table class="table">
+        <tr>
+            <th>
+                Название этапа
+            </th>
+            <th>
+                Статус
+            </th>
+            <th>
+
+            </th>
+        </tr>
+        @foreach (var item in Model.answers)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.stepName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.statusName)
+                </td>
+                <td>
+                    @Html.ActionLink("Подробнее", "ShowAnswerInfo", new { id = item.id })
+                </td>
+            </tr>
+        }
+    </table>
+</p>
+

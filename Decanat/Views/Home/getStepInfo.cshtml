@@ -1,0 +1,51 @@
+﻿@model Decanat.Models.DecanatModels.StepAndAnswersView
+
+@{
+    ViewBag.Title = "getStepInfo";
+}
+@if (User.IsInRole("Leiter") || User.IsInRole("Teacher") || User.IsInRole("Decan"))
+{
+<h2>Информация о этапе</h2>
+<p>
+    Название этапа @Html.DisplayFor(model => model.step.name)
+</p>
+<p>
+    Дата сдачи @Html.DisplayFor(model => model.step.date)
+</p>
+    if (Model.step.isPlanAproved)
+    {
+        <table class="table">
+            <tr>
+                <th>
+                    Название работы
+                </th>
+                <th>
+                    Статус
+                </th>
+                <th>
+
+                </th>
+            </tr>
+            @foreach(var item in Model.answers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.vkrName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => item.statusName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Подробнее", "ShowAnswerInfo", new { id = item.id})
+                    </td>
+                </tr>
+            }
+        </table>
+    } else
+    {
+        <p>
+            Не возможно отобразить ответы для данного этапа
+        </p>
+    }
+
+}

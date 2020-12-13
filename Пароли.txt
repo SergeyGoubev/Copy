@@ -1,0 +1,10 @@
+Decan@vlsu.ru Decan1-
+Leiter@vlsu.ru Leiter2-
+teacher@vlsu.ru Teacher3-
+student@vlsu.ru Student4-
+admin@vlsu.ru Admin5-
+test@vlsu.ru Test6-
+test2@vlsu.ru Test7-
+
+
+@Html.DropDownListFor(model => model.email, ViewBag.Users as SelectList)

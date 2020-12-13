@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Decanat.Models.DecanatModels.VKR>
+@using Decanat.Models.DecanatModels
+@{
+    ViewBag.Title = "Admin getAll";
+}
+
+@if (User.IsInRole("Admin"))
+{
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Название работы
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.theme)
+            </td>
+        </tr>
+    }
+</table>

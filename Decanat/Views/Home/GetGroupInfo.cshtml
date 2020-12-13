@@ -1,0 +1,78 @@
+﻿@model Decanat.Models.DecanatModels.StudentsInGroupView
+
+@{
+    ViewBag.Title = "GetGroupInfo";
+}
+
+<h2>Подробно о группе</h2>
+<p>
+    Название группы: @Html.DisplayFor(ModelItem => Model.group.groupName)
+</p>
+<p>
+    Выпускающая кафедра: @Html.DisplayFor(ModelItem => Model.group.getKafedraName)
+</p>
+@if (Model.group.study)
+{
+    <p>В настоящее время обучается</p>
+}
+else
+{
+    <p>В настоящее время НЕ обучается</p>
+}
+@if (User.IsInRole("Leiter") | User.IsInRole("Decan") | User.IsInRole("Teacher"))
+{
+    if (Model.group.isHasPlan)
+    {
+        <p>Для группы создан план-график</p>
+        <p>
+            @Html.ActionLink("Посмотреть план", "ShowPlanInfo", new { id = Model.group.getPlanId })
+        </p>
+    }
+    else
+    {
+        if (User.IsInRole("Leiter") | User.IsInRole("Decan"))
+        {
+            <p>Для группы не создан План-график</p>
+            <p> @Html.ActionLink("Создать ПГ", "AddPlan", new { groupId = Model.group.id })</p>
+        }
+    }
+    if (User.IsInRole("Leiter") || User.IsInRole("Decan"))
+    {
+    @Html.ActionLink("Добавить студента", "AddStudent", new { groupId = Model.group.id })
+    }
+}
+<p>
+    В группе обучаются следубщие студенты
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ФИО
+        </th>
+        @if (User.IsInRole("Leiter") | User.IsInRole("Decan") | User.IsInRole("Teacher"))
+        {
+            <th>
+                Номер телефона
+            </th>
+}
+    </tr>
+    @foreach (var item in Model.students)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.getFIO)
+            </td>
+            @if (User.IsInRole("Leiter") | User.IsInRole("Decan") | User.IsInRole("Teacher"))
+            {
+                <td>
+                    +7 @Html.DisplayFor(modelItem => item.mobileNomber)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Подробнее", "getStudentInfo", new { id = item.id })
+                </td>
+}
+        </tr>
+    }
+</table>
+

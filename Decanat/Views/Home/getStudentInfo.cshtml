@@ -1,0 +1,44 @@
+﻿@model Decanat.Models.DecanatModels.Student
+@{
+    ViewBag.Title = "getStudentInfo";
+}
+
+<h2>Подробно о студенте</h2>
+@if (User.IsInRole("Teacher") || User.IsInRole("Leiter") || User.IsInRole("Decan"))
+{
+<p>
+    ФИО @Html.DisplayFor(ModelItem => Model.getFIO)
+</p>
+<p>
+   Обучается в группе:  @Html.DisplayFor(ModelItem => Model.gruppaName)
+</p>
+<p>
+    e-mail:  @Html.DisplayFor(ModelItem => Model.email)
+</p>
+<p>
+    Номер телефона:  @Html.DisplayFor(ModelItem => Model.mobileNomber)
+</p>
+<p>
+        @Html.DisplayFor(ModelItem => Model.getIsHasVKR)
+</p>
+
+<p>
+    @if (Model.isHasVKR)
+    {
+        @Html.ActionLink("Посмотреть", "showVKRInfo", new { id = Model.getVKR})
+    }
+    else
+    {
+        if (Model.isPlanAproved & User.IsInRole("Teacher"))
+        {
+            @Html.ActionLink("Добавить ВКР", "addVKR", new { studentId = Model.id, gruppaId = Model.gruppaId })
+        }
+        else
+        {
+            <p>
+            План график ещё не утверждён. дождитесь утверждения
+                </p>
+        }
+    }
+</p>
+}

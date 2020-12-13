@@ -1,0 +1,774 @@
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.dll.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.pdb
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.exe
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.exe.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.rsp
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.exe
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.exe.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.rsp
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.AppContext.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Console.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Compression.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Claims.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.ValueTuple.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.exe
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.exe.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.rsp
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Antlr3.Runtime.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Owin.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Helpers.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Mvc.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Optimization.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Razor.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\WebGrease.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Helpers.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Mvc.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Optimization.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Razor.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Antlr3.Runtime.pdb
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.dll
+C:\Users\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.pdb
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.dll.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Decanat.pdb
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.exe
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.exe.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csc.rsp
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.exe
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.exe.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\csi.rsp
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.AppContext.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Collections.Immutable.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Console.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Compression.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.FileSystem.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.IO.Pipes.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.AccessControl.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Claims.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.ValueTuple.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XPath.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.exe
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.exe.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\vbc.rsp
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\VBCSCompiler.exe
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\roslyn\VBCSCompiler.exe.config
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Antlr3.Runtime.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.SqlServer.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Google.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Web.Infrastructure.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Newtonsoft.Json.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Owin.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Helpers.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Mvc.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Optimization.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Razor.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Deployment.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Razor.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\WebGrease.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\NLog.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Helpers.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Mvc.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Optimization.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.Razor.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Deployment.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\System.Web.WebPages.Razor.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Newtonsoft.Json.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Antlr3.Runtime.pdb
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\EntityFramework.SqlServer.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Google.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Helpers.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Mvc.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Optimization.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.Razor.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+A:\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.dll
+A:\Сергей\Desktop\Decanat-master\Decanat\obj\Debug\Decanat.pdb
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\NLog.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Decanat.dll.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Decanat.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Decanat.pdb
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csc.exe
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csc.exe.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csc.rsp
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csi.exe
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csi.exe.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\csi.rsp
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.AppContext.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Collections.Immutable.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Console.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.IO.Compression.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.IO.FileSystem.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.IO.Pipes.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.AccessControl.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Claims.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.ValueTuple.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Xml.XPath.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\vbc.exe
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\vbc.exe.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\vbc.rsp
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\VBCSCompiler.exe
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\roslyn\VBCSCompiler.exe.config
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Antlr3.Runtime.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\EntityFramework.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\EntityFramework.SqlServer.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Google.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Web.Infrastructure.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Newtonsoft.Json.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\NLog.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Owin.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Helpers.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Mvc.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Optimization.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Razor.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.Deployment.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.Razor.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\WebGrease.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\NLog.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Helpers.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Mvc.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Optimization.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.Razor.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.Deployment.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\System.Web.WebPages.Razor.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Newtonsoft.Json.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Antlr3.Runtime.pdb
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\EntityFramework.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\EntityFramework.SqlServer.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Google.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.Helpers.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.Mvc.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.Optimization.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.Razor.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.WebPages.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+A:\Сергей\Desktop\Decanat 2.0\Decanat\obj\Debug\Decanat.dll
+A:\Сергей\Desktop\Decanat 2.0\Decanat\obj\Debug\Decanat.pdb
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\NLog.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Decanat.dll.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Decanat.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Decanat.pdb
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csc.exe
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csc.exe.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csc.rsp
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csi.exe
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csi.exe.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\csi.rsp
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.AppContext.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Collections.Immutable.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Console.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.IO.Compression.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.IO.FileSystem.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.IO.Pipes.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.AccessControl.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Claims.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.ValueTuple.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Xml.XPath.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\vbc.exe
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\vbc.exe.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\vbc.rsp
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\VBCSCompiler.exe
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\roslyn\VBCSCompiler.exe.config
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Antlr3.Runtime.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\EntityFramework.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\EntityFramework.SqlServer.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Google.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Web.Infrastructure.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Newtonsoft.Json.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\NLog.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Owin.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Helpers.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Mvc.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Optimization.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Razor.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.Deployment.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.Razor.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\WebGrease.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\NLog.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Helpers.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Mvc.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Optimization.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.Razor.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.Deployment.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\System.Web.WebPages.Razor.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Newtonsoft.Json.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Antlr3.Runtime.pdb
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\EntityFramework.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\EntityFramework.SqlServer.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Google.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.Helpers.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.Mvc.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.Optimization.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.Razor.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.WebPages.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+A:\Сергей\Desktop\Decanat1111\Decanat\obj\Debug\Decanat.dll
+A:\Сергей\Desktop\Decanat1111\Decanat\obj\Debug\Decanat.pdb
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\NLog.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\Decanat.dll.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\Decanat.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Decanat.pdb
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csc.exe
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csc.exe.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csc.rsp
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csi.exe
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csi.exe.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\csi.rsp
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.AppContext.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Collections.Immutable.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Console.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.IO.Compression.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.IO.FileSystem.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.IO.Pipes.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.AccessControl.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Claims.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.ValueTuple.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Xml.XPath.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\vbc.exe
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\vbc.exe.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\vbc.rsp
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\VBCSCompiler.exe
+A:\Сергей\Desktop\Decanat\Decanat\bin\roslyn\VBCSCompiler.exe.config
+A:\Сергей\Desktop\Decanat\Decanat\bin\Antlr3.Runtime.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\EntityFramework.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\EntityFramework.SqlServer.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Google.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Web.Infrastructure.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Newtonsoft.Json.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\NLog.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Owin.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Helpers.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Mvc.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Optimization.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Razor.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.Deployment.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.Razor.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\WebGrease.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\NLog.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Helpers.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Mvc.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Optimization.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.Razor.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.Deployment.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\System.Web.WebPages.Razor.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Newtonsoft.Json.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Antlr3.Runtime.pdb
+A:\Сергей\Desktop\Decanat\Decanat\bin\EntityFramework.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\EntityFramework.SqlServer.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Google.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.Helpers.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.Mvc.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.Optimization.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.Razor.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.WebPages.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat\Decanat\obj\Debug\Decanat.dll
+A:\Сергей\Desktop\Decanat\Decanat\obj\Debug\Decanat.pdb
+A:\Сергей\Desktop\Decanat\Decanat\bin\nunit.framework.dll
+A:\Сергей\Desktop\Decanat\Decanat\bin\nunit.framework.pdb
+A:\Сергей\Desktop\Decanat\Decanat\bin\nunit.framework.xml
+A:\Сергей\Desktop\Decanat\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\NLog.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Decanat.dll.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Decanat.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Decanat.pdb
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csc.exe
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csc.exe.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csc.rsp
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csi.exe
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csi.exe.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\csi.rsp
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.Managed.Core.targets
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.AppContext.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Collections.Immutable.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Console.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Diagnostics.StackTrace.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.IO.Compression.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.IO.FileSystem.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.IO.Pipes.AccessControl.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.IO.Pipes.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Reflection.Metadata.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.AccessControl.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Claims.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Security.Principal.Windows.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Text.Encoding.CodePages.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.ValueTuple.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Xml.ReaderWriter.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Xml.XmlDocument.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Xml.XPath.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\System.Xml.XPath.XDocument.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\vbc.exe
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\vbc.exe.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\vbc.rsp
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\VBCSCompiler.exe
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\roslyn\VBCSCompiler.exe.config
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Antlr3.Runtime.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\EntityFramework.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\EntityFramework.SqlServer.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.Core.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.Owin.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Host.SystemWeb.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Cookies.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Facebook.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Google.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.OAuth.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Twitter.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Web.Infrastructure.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Newtonsoft.Json.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\NLog.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\nunit.framework.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Owin.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Helpers.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Mvc.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Optimization.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Razor.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.Deployment.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.Razor.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\WebGrease.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\NLog.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\nunit.framework.pdb
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\nunit.framework.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Helpers.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Mvc.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Optimization.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.Razor.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.Deployment.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\System.Web.WebPages.Razor.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Newtonsoft.Json.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Antlr3.Runtime.pdb
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\EntityFramework.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\EntityFramework.SqlServer.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.Core.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.Owin.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Host.SystemWeb.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Facebook.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Cookies.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Google.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.Twitter.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.Owin.Security.OAuth.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.Helpers.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.Mvc.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.Optimization.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.Razor.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.WebPages.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.WebPages.Deployment.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\System.Web.WebPages.Razor.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\EntityFramework.SqlServer.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\obj\Debug\Decanat.csprojResolveAssemblyReference.cache
+A:\Сергей\Desktop\Decanat — копия\Decanat\obj\Debug\Decanat.dll
+A:\Сергей\Desktop\Decanat — копия\Decanat\obj\Debug\Decanat.pdb

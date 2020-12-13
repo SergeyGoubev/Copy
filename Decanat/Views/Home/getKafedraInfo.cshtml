@@ -1,0 +1,60 @@
+﻿@model Decanat.Models.DecanatModels.GroupsInKafedra
+
+@{
+    ViewBag.Title = "getKafedraInfo";
+}
+
+<h2>Список групп</h2>
+@if (User.IsInRole("Leiter") || User.IsInRole("Decan"))
+{
+<p>
+    @Html.ActionLink("Добавить группу", "AddGroup", new { id = Model.kafedra.id })
+</p>
+<p>
+    @Html.ActionLink("Добавить преподавателя", "addTeacher", new { id = Model.kafedra.id })
+</p>}
+<table class="table">
+    <tr>
+        <th>
+            Название групы
+        </th>
+        <th>
+            Уровень
+        </th>
+        <th>
+            Кафедра
+        </th>
+        <th>
+            Наличие ПГ
+        </th>
+        <th>
+
+        </th>
+    </tr>
+    @foreach (var item in Model.groups)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.groupName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.getLivel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.getKafedraName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isHasPlan)
+            </td>
+            <td>
+                @if (!item.isHasPlan &&(User.IsInRole("Leiter") || User.IsInRole("Decan")))
+                {
+                    @Html.ActionLink("Добавить ПГ ", "AddPlan")
+                }
+                |
+                @Html.ActionLink(" Подробнее", "GetGroupInfo", new { id = item.id })
+            </td>
+        </tr>
+    }
+    
+</table>

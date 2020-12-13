@@ -1,0 +1,83 @@
+﻿@model Decanat.Models.DecanatModels.PlanAndStepsViewModel
+
+@{
+    ViewBag.Title = "ShowPlanInfo";
+}
+@if (User.IsInRole("Teacher") | User.IsInRole("Leiter") | User.IsInRole("Decan"))
+{
+    <h2>Информация о плане</h2>
+
+    <p>
+        План-График для группы: @Html.DisplayFor(modelItem => Model.plan.getGroupName)
+    </p>
+    <p>
+        Имеет статус: @Html.DisplayFor(modelItem => Model.plan.getStatus)
+    </p>
+    if ((Model.plan.status == 1 || Model.plan.status == 3) && User.IsInRole("Leiter"))
+    {
+        <p>
+            @Html.ActionLink("Отправить на утверждение", "SetPlanStatus", new { id = Model.plan.id, status = 6 })
+        </p>
+    }
+    if (User.IsInRole("Decan") & Model.plan.status == 6)
+    {
+        <p>
+            @Html.ActionLink("Утвердить", "SetPlanStatus", new { id = Model.plan.id, status = 2 })
+        </p>
+        <p>
+            @Html.ActionLink("Отправить на исправление", "SetPlanStatus", new { id = Model.plan.id, status = 3 })
+        </p>
+    }
+    <p>
+        Включает в себя следующие этапы
+    </p>
+    if ((Model.plan.status == 1 || Model.plan.status ==3) && (User.IsInRole("Leiter") || User.IsInRole("Decan")))
+    {
+        @Html.ActionLink("Добавить этап", "AddStep", new { id = Model.plan.id })
+    }
+    <table class="table">
+        <tr>
+            <th>
+                Название этапа
+            </th>
+            <th>
+                Дата сдачи
+            </th>
+            <th>
+                Комментарий
+            </th>
+            <th>
+            </th>
+        </tr>
+        @foreach (var item in Model.steps)
+        {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.comment)
+        </td>
+        @if ((Model.plan.status == 1 || Model.plan.status == 3) && (User.IsInRole("Leiter") || (User.IsInRole("Decan"))))
+        {
+            <td>
+                @Html.ActionLink("Редактировать", "editStep", new { id = item.id })
+            </td>
+
+        }
+        <td>
+            @Html.ActionLink("Просотреть", "getStepInfo", new { id = item.id })
+        </td>
+    </tr>
+        }
+
+
+    </table>
+    if (Model.plan.status == 1 & User.IsInRole("Leiter"))
+    {
+        @Html.ActionLink("Отменить", "SetPlanStatus", new { id = Model.plan.id, status = 4 })
+    }
+}

@@ -1,0 +1,210 @@
+﻿@model Decanat.Models.DecanatModels.ViewAnswerAndVKR
+@{
+    ViewBag.Title = "Home Page";
+}
+<h2>
+</h2>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Посмотреть всё", "getAllWorks")
+    </p>
+}
+else
+{
+    if (User.IsInRole("Student"))
+    {
+        <h2>
+            Темя моей выпускной работы:  @Html.DisplayFor(modelItem => Model.vkr.theme)
+        </h2>
+        <p>
+            Список дел
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    Название этапа
+                </th>
+                <th>
+                    Статус
+                </th>
+                <th>
+
+                </th>
+            </tr>
+            @foreach (var item in Model.answers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.stepName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.statusName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Подробнее", "ShowAnswerInfo", new { id = item.id })
+                    </td>
+                </tr>
+            }
+        </table>
+        <div>
+            @Html.ActionLink("Добавить ответ на этап", "AddStep")
+        </div>
+    }
+    else
+    {
+        if (User.IsInRole("Teacher"))
+        {
+            if (Model.answers.Count > 0)
+            {
+                <p>
+                    Для вас были представлены ответы на следующие работы
+                </p>
+
+                <table class="table">
+                    <tr>
+                        <th>
+                            Название работы
+                        </th>
+                        <th>
+                            Дата предоставления
+                        </th>
+
+                    </tr>
+                    @foreach (var item in Model.answers)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.vkrName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.answerDate)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Просмотреть", "ShowAnswerInfo", new { id = item.id })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            }
+            else
+            { <p>
+                    Для вас не представлено ответов на проверку
+                </p>}
+            <p>
+                @Html.ActionLink("Все мои группы", "getKafedraInfo", new { id = Model.idKaf })
+            </p>
+
+        }
+        else
+        {
+            if (User.IsInRole("Leiter"))
+            {
+                <p>
+                    Выберете кафедру для начала работы
+                </p>
+                <table class="table">
+                    <tr>
+                        <th>
+                            Название кафедры
+                        </th>
+                        <th>
+                            E-mail
+                        </th>
+                        <th></th>
+                    </tr>
+                    @foreach (var item in Model.kafedras)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.email)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Подробнее", "getKafedraInfo", new { id = item.id })
+                            </td>
+                        </tr>
+                    }
+                </table>
+
+            }
+            else
+            {
+                if (User.IsInRole("Decan"))
+                {
+
+                    if (Model.plans.Count() > 0)
+                    {
+                        <p>
+                            На утверждение были отправлены Планы-Графики на следующих групп
+                        </p>
+                        <table class="table">
+                            <tr>
+                                <th>
+                                    Группа
+                                </th>
+                                <th>
+
+                                </th>
+                            </tr>
+                            @foreach (var item in Model.plans)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.getGroupName)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Подробнее", "ShowPlanInfo", new { id = item.id })
+                                    </td>
+                                </tr>
+                            }
+                        </table>
+
+                    }
+                    else
+                    {
+                        <p>
+                            Нет новых планов для утверждения
+                        </p>
+                    }
+                    <p>
+                        Выберете кафедру для начала работы
+                    </p>
+                    <table class="table">
+                        <tr>
+                            <th>
+                                Название кафедры
+                            </th>
+                            <th>
+                                E-mail
+                            </th>
+                            <th></th>
+                        </tr>
+                        @foreach (var item in Model.kafedras)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.email)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Подробнее", "getKafedraInfo", new { id = item.id })
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                }
+                else
+                {
+                    <h2> Для доступа к возможностям сервиса вам необходимо пройти авторизацию или дождаться предоставления прав</h2>}
+
+            }
+        }
+    }
+
+}
